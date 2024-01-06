@@ -23,3 +23,6 @@ class Solution:
         
         # Check if both strings are fully traversed and matched
         return i == len(name) and j == len(typed)
+
+# checking by this j > 0 and typed[j] == typed[j - 1] the previous element and
+# checking  while j < len(typed) and typed[j] == typed[j - 1] for remaining key 
