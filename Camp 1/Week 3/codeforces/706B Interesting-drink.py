@@ -10,12 +10,12 @@ arr = list(map(int,input().split()))
 
 n = int(input())
 
-q = []
+p = []
 for i in range(n):
-  q.append(int(input()))
+  p.append(int(input()))
 
 arr.sort()
 
 for i in range(n):
-  print(bisect.bisect_right(arr,q[i]))
+  print(bisect.bisect_right(arr,p[i]))
 
