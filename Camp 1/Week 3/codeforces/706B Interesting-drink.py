@@ -1,5 +1,5 @@
-import sys
 import bisect
+import sys
 
 def input():
   return sys.stdin.readline().strip()
@@ -10,12 +10,12 @@ arr = list(map(int,input().split()))
 
 n = int(input())
 
-p = []
+ans = []
 for i in range(n):
-  p.append(int(input()))
+  ans.append(int(input()))
 
 arr.sort()
 
 for i in range(n):
-  print(bisect.bisect_right(arr,p[i]))
+  print(bisect.bisect_right(arr,ans[i]))
 
