@@ -1,5 +1,6 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
+        #dfs
         n = len(isConnected)
         visited = [False] * n
         count = 0
