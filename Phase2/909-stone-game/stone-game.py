@@ -18,4 +18,4 @@ class Solution:
             memo[(l,r)] = val
             return val
         
-        return dp(0, len(piles) - 1)
+        return dp(0, len(piles) - 1) > sum(piles) // 2
