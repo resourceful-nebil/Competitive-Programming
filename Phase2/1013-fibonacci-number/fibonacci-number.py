@@ -1,14 +1,10 @@
 class Solution:
     def fib(self, n: int) -> int:
-        memo = {}
-
-        def fibin(n):
-            if n == 0 or n == 1:
-                return n
-            
-            if n not in memo:
-                memo[n] = fibin(n - 1) + fibin(n -2)
-            
-            return memo[n]
+        if n == 0:
+            return 0
+        if n == 1:
+            return 1
         
-        return fibin(n)
+        f = self.fib(n -1) + self.fib(n -2)
+
+        return f
