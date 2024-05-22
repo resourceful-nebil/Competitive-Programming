@@ -15,12 +15,12 @@ class Solution:
                     curr.pop()
         
         isPalenderomic = [[True]*len(s) for _ in range(len(s))]
-        # print(isPalenderomic)
         
         for i in range(len(s) - 1, - 1, -1):
             for j in range(i + 1, len(s)):
                 # print(i,j)
                 isPalenderomic[i][j] = isPalenderomic[i + 1][j - 1] and s[i] == s[j]
+        # print(isPalenderomic)
         
         dp(0)
         return res
