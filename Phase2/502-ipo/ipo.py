@@ -8,7 +8,7 @@ class Solution:
         prof_cap.sort(key = lambda x : -x[0])
         for i in range(k):
             
-            while  prof_cap and prof_cap[-1][0] <= w:
+            while prof_cap and prof_cap[-1][0] <= w:
                 heappush(heap,-prof_cap.pop()[1])
             if heap:
                 x = heappop(heap)
