@@ -1,20 +1,23 @@
 class Solution:
     def numberOfSubarrays(self, nums: List[int], k: int) -> int:
-        di = defaultdict(int)
-        count = 0
-        prefix = 0
-        di[prefix] = 1
+        l, m = 0, 0
+        odd, res = 0, 0 
 
-        for i in range(len(nums)):
-            prefix += nums[i] & 1
-            diff = prefix - k
-
-            if diff in di:
-                count += di[diff]
+        for r in range(len(nums)):
+            if nums[r] % 2:
+                odd += 1
             
-            di[prefix] += 1
-        
-        return count 
+            while odd > k:
+                if nums[l] % 2:
+                    odd -= 1
+                l += 1
+                m = l
+                
+            if odd == k:
+                while nums[m] % 2 == 0:
+                    m += 1
+                res += (m - l) + 1
 
+        return res
 
         
