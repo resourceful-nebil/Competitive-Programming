@@ -5,7 +5,7 @@ class Solution:
         if stones[1]-stones[0]>1:
             return False
 
-        @lru_cache(maxsize=None)
+        @cache
         def dfs(i, jump):
             if i == len(stones) - 1:
                 return True
