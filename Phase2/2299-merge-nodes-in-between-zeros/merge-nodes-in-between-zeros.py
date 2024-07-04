@@ -13,6 +13,7 @@ class Solution:
         while temp:
             cur_sum += temp.val
             if temp.val == 0:
+                #to create a node with a val you want
                 dummy_temp.next = ListNode(cur_sum)
                 cur_sum = 0
                 dummy_temp = dummy_temp.next
