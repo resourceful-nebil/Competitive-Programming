@@ -1,6 +1,6 @@
 class Solution {
   List<int> twoSum(List<int> nums, int target) {
-    var dict = Map<int,int>();
+    Map<int,int> dict = {};
     List<int> result = [];
 
     for(var i = 0;i < nums.length;i++){
