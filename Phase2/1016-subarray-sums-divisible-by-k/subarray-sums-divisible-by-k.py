@@ -4,7 +4,6 @@ class Solution:
         count = 0
         prefix = 0
         di[prefix] = 1
-
         for num in nums:
             prefix += num
             diff = prefix % k
