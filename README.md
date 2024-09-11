@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0648-replace-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
