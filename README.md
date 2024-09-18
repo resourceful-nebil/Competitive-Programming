@@ -80,12 +80,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
