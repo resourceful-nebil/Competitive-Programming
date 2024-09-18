@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0648-replace-words) |
 | [1435-xor-queries-of-a-subarray](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
