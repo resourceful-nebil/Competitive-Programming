@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0113-path-sum-ii) |
+| [0437-path-sum-iii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0113-path-sum-ii) |
+| [0437-path-sum-iii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0113-path-sum-ii) |
+| [0437-path-sum-iii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
