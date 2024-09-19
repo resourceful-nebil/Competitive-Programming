@@ -79,20 +79,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0112-path-sum) |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0112-path-sum) |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0112-path-sum) |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0112-path-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
