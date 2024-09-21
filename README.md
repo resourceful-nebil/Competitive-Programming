@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0648-replace-words](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0648-replace-words) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Dynamic Programming
