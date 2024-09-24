@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0198-house-robber](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
