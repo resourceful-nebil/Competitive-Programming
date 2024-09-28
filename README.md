@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0648-replace-words](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0648-replace-words) |
 | [1250-longest-common-subsequence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Dynamic Programming
