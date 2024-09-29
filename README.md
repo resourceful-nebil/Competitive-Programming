@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0151-reverse-words-in-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0392-is-subsequence) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0151-reverse-words-in-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
