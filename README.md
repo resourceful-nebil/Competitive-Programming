@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0437-path-sum-iii) |
+| [0813-all-paths-from-source-to-target](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
+| [0813-all-paths-from-source-to-target](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0113-path-sum-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0113-path-sum-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -225,5 +228,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0133-clone-graph) |
+| [0813-all-paths-from-source-to-target](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
