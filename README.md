@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1036-rotting-oranges) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
