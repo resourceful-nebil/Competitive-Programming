@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1319-unique-number-of-occurrences) |
+| [1325-path-with-maximum-probability](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0744-network-delay-time](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 | [2413-smallest-number-in-infinite-set](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0871-keys-and-rooms) |
+| [1325-path-with-maximum-probability](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 ## Union Find
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 ## Matrix
 |  |
 | ------- |
