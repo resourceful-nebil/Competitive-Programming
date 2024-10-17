@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0113-path-sum-ii) |
 | [0133-clone-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0547-number-of-provinces) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0744-network-delay-time) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0374-guess-number-higher-or-lower) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
