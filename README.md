@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0648-replace-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0747-min-cost-climbing-stairs) |
+| [1002-maximum-width-ramp](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
+| [1002-maximum-width-ramp](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 ## Graph
 |  |
 | ------- |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
