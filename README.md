@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0648-replace-words) |
 | [0812-rotate-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0812-rotate-string) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0394-decode-string) |
 | [1002-maximum-width-ramp](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 ## Graph
 |  |
