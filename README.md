@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3451-string-compression-iii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3451-string-compression-iii) |
 ## Trie
 |  |
 | ------- |
