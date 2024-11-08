@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0283-move-zeroes) |
+| [0318-maximum-product-of-word-lengths](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0542-01-matrix](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0648-replace-words) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0151-reverse-words-in-a-string) |
+| [0318-maximum-product-of-word-lengths](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0392-is-subsequence) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [1435-xor-queries-of-a-subarray](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1940-maximum-xor-for-each-query) |
