@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1940-maximum-xor-for-each-query) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Counting
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
+| [1940-maximum-xor-for-each-query](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1940-maximum-xor-for-each-query) |
 ## Brainteaser
 |  |
 | ------- |
