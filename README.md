@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2413-smallest-number-in-infinite-set](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2413-smallest-number-in-infinite-set) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Backtracking
 |  |
 | ------- |
