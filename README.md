@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Tree
 |  |
 | ------- |
