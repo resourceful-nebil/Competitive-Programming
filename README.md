@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0648-replace-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0747-min-cost-climbing-stairs) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0917-boats-to-save-people](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1002-maximum-width-ramp](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1036-rotting-oranges) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1940-maximum-xor-for-each-query) |
 ## Brainteaser
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0744-network-delay-time](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1325-path-with-maximum-probability](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 | [2413-smallest-number-in-infinite-set](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -342,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0812-rotate-string) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
