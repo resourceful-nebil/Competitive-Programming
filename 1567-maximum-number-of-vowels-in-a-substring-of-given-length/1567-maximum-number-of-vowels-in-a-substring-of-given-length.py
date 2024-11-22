@@ -1,16 +1,17 @@
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
-        length,l = 0,0
-        _max_length = 0
-        vowel = ('a', 'e', 'i', 'o','u')
+        l,length = 0,0
+        max_length = 0
+        vowels = ('a','e','o','u','i')
 
         for r in range(len(s)):
-            if s[r] in vowel:
+            if s[r] in vowels:
                 length += 1
             if r - l + 1 == k:
-                _max_length = max(_max_length,length)
-                if s[l] in vowel:
+                max_length = max(max_length,length)
+                if s[l] in vowels:
                     length -= 1
                 l += 1
         
-        return _max_length
+        return max_length
+
