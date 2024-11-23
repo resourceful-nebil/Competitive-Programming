@@ -1,26 +1,25 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        pattern = Counter(s1)
-        l,r = 0,0
-
-        count = 0
-
-        while r < len(s2):
-            if s2[r] in pattern:
-                pattern[s2[r]] -= 1
-                if pattern[s2[r]] == 0:
-                    count += 1
-            
-            r += 1
-
-            if r - l == len(s1):
-                if count == len(pattern):
-                    return True
-                if s2[l] in pattern:
-                    if pattern[s2[l]] == 0:
-                        count -= 1
-                    pattern[s2[l]] += 1
-          
-                l += 1
+        if len(s1) > len(s2):
+            return False
         
+        s1Count,s2Count = Counter(s1),Counter(s2[:len(s1)])
+
+        if s1Count == s2Count:
+            return True 
+        
+        l = 0
+        for r in range(len(s1),len(s2)):
+            s2Count[s2[r]] += 1
+            s2Count[s2[l]] -= 1
+
+            if s2Count[s2[l]] == 0:
+                del s2Count[s2[l]]
+            
+            l += 1
+
+            if s1Count == s2Count:
+                return True
+            
         return False 
+
