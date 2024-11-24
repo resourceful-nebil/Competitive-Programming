@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0133-clone-graph) |
+| [0355-design-twitter](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0648-replace-words) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0355-design-twitter) |
 | [0744-network-delay-time](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0355-design-twitter) |
 | [2413-smallest-number-in-infinite-set](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2413-smallest-number-in-infinite-set) |
 ## Simulation
 |  |
