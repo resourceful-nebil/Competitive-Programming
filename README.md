@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1940-maximum-xor-for-each-query) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Tree
 |  |
