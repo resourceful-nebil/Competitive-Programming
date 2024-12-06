@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0078-subsets](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0078-subsets) |
 | [0318-maximum-product-of-word-lengths](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [1435-xor-queries-of-a-subarray](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0113-path-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Search Tree
