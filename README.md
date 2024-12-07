@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0198-house-robber) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0113-path-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
