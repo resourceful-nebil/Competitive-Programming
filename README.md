@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1940-maximum-xor-for-each-query) |
 ## Brainteaser
