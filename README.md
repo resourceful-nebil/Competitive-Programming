@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1325-path-with-maximum-probability](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Monotonic Stack
 |  |
 | ------- |
