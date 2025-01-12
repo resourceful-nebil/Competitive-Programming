@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-construct-k-palindrome-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2413-smallest-number-in-infinite-set](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2413-smallest-number-in-infinite-set) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
+| [1502-construct-k-palindrome-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-construct-k-palindrome-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1009-pancake-sorting) |
+| [1502-construct-k-palindrome-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2636-maximum-subsequence-score](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [3195-separate-black-and-white-balls](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
