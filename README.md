@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1009-pancake-sorting) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2636-maximum-subsequence-score](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [3195-separate-black-and-white-balls](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0394-decode-string) |
 | [1002-maximum-width-ramp](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1002-maximum-width-ramp) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Graph
 |  |
 | ------- |
