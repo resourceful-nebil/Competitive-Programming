@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1940-maximum-xor-for-each-query) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2413-smallest-number-in-infinite-set](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2413-smallest-number-in-infinite-set) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1894-merge-strings-alternately) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2580-circular-sentence) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1325-path-with-maximum-probability](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Union Find
 |  |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Monotonic Stack
 |  |
 | ------- |
