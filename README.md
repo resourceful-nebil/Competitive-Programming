@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1940-maximum-xor-for-each-query) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1009-pancake-sorting) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2636-maximum-subsequence-score](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
 | [3430-count-days-without-meetings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0062-unique-paths) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1236-n-th-tribonacci-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1036-rotting-oranges) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Interactive
 |  |
 | ------- |
