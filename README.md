@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3430-count-days-without-meetings) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2413-smallest-number-in-infinite-set](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2413-smallest-number-in-infinite-set) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2888-minimum-index-of-a-valid-split) |
 ## String
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2636-maximum-subsequence-score](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2636-maximum-subsequence-score) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
