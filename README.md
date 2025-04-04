@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0648-replace-words) |
 | [0952-word-subsets](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/resourceful-nebil/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
